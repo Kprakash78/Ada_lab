@@ -1,0 +1,13 @@
+n,algorithm,time_us
+3,naive,1.2534
+3,strassen,121.232
+4,naive,0.7528
+4,strassen,106.841
+5,naive,1.9042
+5,strassen,792.63
+6,naive,1.8518
+6,strassen,800.786
+7,naive,3.4594
+7,strassen,786.189
+8,naive,4.8228
+8,strassen,786.129

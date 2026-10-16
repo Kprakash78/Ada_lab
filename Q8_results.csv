@@ -1,0 +1,11 @@
+n,algorithm,time_us
+4,naive,0.007712
+4,divide_and_conquer,0.030851
+8,naive,0.019984
+8,divide_and_conquer,0.096567
+16,naive,0.030530
+16,divide_and_conquer,0.305684
+32,naive,0.050850
+32,divide_and_conquer,0.892981
+64,naive,0.089112
+64,divide_and_conquer,2.680980
